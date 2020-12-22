@@ -13,6 +13,9 @@ Commands Responded to:
 
 1. 
 
+hi
+HB7: Glad to make your acquaintance. I am not one for small talk but I tell stories and jokes.
+
 how are you?
 HB7: Very well thank you. I'm feeling fine
 

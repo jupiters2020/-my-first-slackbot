@@ -13,7 +13,7 @@ Commands Responded to:
 
 1. 
 
-hi
+hi, hello, bonjour, ciao, howdy, cheerio // used math.floor + math.random for random selections for responses
 HB7: Glad to make your acquaintance. I am not one for small talk but I tell stories and jokes.
 
 how are you?
@@ -71,7 +71,13 @@ Difficulties/ Challenges:
 
 Tried to use axios for slackbot APIs to wire in Chuck Norris Jokes using http://api.icndb.com/jokes/random/ and Quotes from https://raw.githubusercontent.com/BolajiAyodeji/inspireNuggets/master/src/quotes.json. Don't know if there's significant roadblocks in these apart from using terminal to execute the axios code. Not quite sure how JSON requirements also work yet, but have made an attempt. 
 
-explanations of what your bot does, what commands it responds to, the approach taken, installation instructions, unsolved problems, etc.
+Unsolved Problems: 
+
+a) Overlays of I + i's, clearly defined Index and i's. 
+b) Whether to end res.send "strings" with ;
+c) General Organisation of Code
+d) More work required with switches and shortcuts to create long-lists of responses
+
 
 Task Notes:
 // 1. A Message Post to Slack based on User Input

@@ -62,8 +62,8 @@ if (Drew) "Someone does not like poetry"
 
 Approaches Taken: 
 
-Worked hard on trying to simplify the code and tried different variants, attempting to use some previous js from past lessons as new ways to script. Attempted to cover all of the questions, particularly the random generators and axios APIs, as they allowed for live-ness that I thought was interactive and approachable. I review existing Slackbots and Hubots, trying to identify the basics.
-Begin by writing down what your different commands (perhaps still haven't quite fleshed some of them out to their full potential.
+Worked hard on trying to simplify the code and tried different variants, attempting to use some previous js from past lessons as new ways to script. Attempted to cover all of the questions, particularly the random generators and axios APIs, as they allowed for live-ness that I thought was interactive and approachable. I reviewed existing Slackbots and Hubots, trying to identify the basics.
+I began by writing down what your different commands (perhaps still haven't quite fleshed some of them out to their full potential.
 
 Don't think I quite inputted the commands for .hear, .listen to access them easily enough for the API commands. It was challenging and enjoyable, will continue to develop HUBOT-7 over the Christmas break and continue to grow and develop the code. Specified challenges and difficulties to work on below.  
 
